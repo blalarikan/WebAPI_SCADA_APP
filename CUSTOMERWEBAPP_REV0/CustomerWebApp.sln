@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AYEDASWEBAPP_REV0", "AYEDASWEBAPP_REV0\AYEDASWEBAPP_REV0.csproj", "{6B0374A3-7918-46DB-93C8-6FF72A790745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{6541003E-E41F-4F41-8C64-521CFCAF3BD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B0374A3-7918-46DB-93C8-6FF72A790745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0374A3-7918-46DB-93C8-6FF72A790745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0374A3-7918-46DB-93C8-6FF72A790745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0374A3-7918-46DB-93C8-6FF72A790745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6541003E-E41F-4F41-8C64-521CFCAF3BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6541003E-E41F-4F41-8C64-521CFCAF3BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6541003E-E41F-4F41-8C64-521CFCAF3BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6541003E-E41F-4F41-8C64-521CFCAF3BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A11481E7-7E0F-4A65-84BB-1ABFB70252D3}
+	EndGlobalSection
+EndGlobal
